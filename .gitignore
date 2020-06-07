@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+aftership-sdk-go-sample
 
 # Test binary, built with `go test -c`
 *.test
